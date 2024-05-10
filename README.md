@@ -1,5 +1,10 @@
 **This repository is an unofficial fork**
 
+This fork is just a copy of the upstream provider https://github.com/petoju/terraform-provider-mysql
+Please file issues there as this will likely not be maintained by Pendo directly 
+
+======
+
 The fork is mostly based of the official (now archived) repo.
 The provider has also some extra changes and solves almost all the reported
 issues.
@@ -7,8 +12,6 @@ issues.
 I incorporated changes by winebarrel/terraform-provider-mysql. Because I found
 out about that repo only after some work, PR cannot be created easily now.
 Feel free to create a PR with my code to their repo or the other way around.
-
-[![Build Status](https://www.travis-ci.com/petoju/terraform-provider-mysql.svg?branch=master)](https://www.travis-ci.com/petoju/terraform-provider-mysql)
 
 Terraform Provider
 ==================
